@@ -1,16 +1,9 @@
-# React + Vite
+Projeto de portifolio feito com uso de React+Vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-# Necessary facilities
-  Npm install
-  <br>
-  npm install react-router-dom
-  <br>
-  npm install react-icons --save
+O uso do "Vite" veio para facilitar o acompanhamento das mudanças do script na página do portifólio.
+No portifólio temos as senguintes páginas:
+Home: Imagem do criador do portifólio, além de apresentação básica e encaminhamento para outras páginas;
+Contatos: links para diferentes redes sociais e forma de contactar e acompar o trabalho do autor;
+Page404: Aviso de caminho inexistente, caso o usuário tente um caminho que não é previsto;
+Sobre: usado para fornecer informações mais aprofundadas do autor e suas habilidades;
+Projetos: Vitrine de projetos passadas executados pelo autor do portifolio.
